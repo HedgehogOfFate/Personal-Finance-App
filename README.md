@@ -4,7 +4,7 @@ A simple Windows Forms application built in C# for managing personal income and 
 
 ## Project Description
 
-The **Personal Finance Manager** allows users to:
+The Personal Finance App allows users to:
 - Record income and expenses with a description and amount
 - View all transactions from the database
 - Calculate total income or expenses
